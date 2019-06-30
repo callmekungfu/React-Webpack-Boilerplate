@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "./build/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "preserveConstEnums": true,
+    "removeComments": true,
+    "target": "es6",
+    "jsx": "react"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
