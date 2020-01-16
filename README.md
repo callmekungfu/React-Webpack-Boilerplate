@@ -1,4 +1,6 @@
 # React Typescript Boilerplate 🔥🔥
+**Don't use this, just use [createReactApp](https://create-react-app.dev/docs/adding-typescript/)**
+
 This is a boilerplate for ReactJS development using TypeScript. The boilerplate integrates many useful features set up out of the box like hot module reloading, unit testing, linting, and more! With a simply install command, you will be on your way to building react applications with Typescript enabled!
 
 ## Requirements
